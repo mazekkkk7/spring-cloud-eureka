@@ -3,14 +3,14 @@ spring:
     name: spring-cloud-eureka
   cloud:
       config:
-        uri: http://localhost:9921
+        uri: http://192.168.99.100:9921
         profile: dev
         label: master
         username: user
         password: 60361173b
   rabbitmq:
-    host: localhost
+    host: 192.168.99.100
     port: 5672
-    username: guest
-    password: guest
+    username: mazekkkk
+    password: 1yonghuming!Aa
 #debug: true

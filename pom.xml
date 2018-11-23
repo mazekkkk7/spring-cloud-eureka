@@ -28,16 +28,6 @@
 		<java.version>1.8</java.version>
 	</properties>
 
-	<!-- 添加spring-boot的maven插件 -->
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
-
 	<!--<distributionManagement>-->
 		<!--<repository>-->
 			<!--<id>releases</id>-->

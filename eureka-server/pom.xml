@@ -72,7 +72,7 @@
                 <configuration>
                     <dockerCertPath>/Users/maze/.docker/machine/machines/default</dockerCertPath>
                     <dockerHost>https://192.168.99.100:2376</dockerHost>
-                    <imageName>mazekkkk/spring-cloud-eureka:0.0.1</imageName>
+                    <imageName>mazekkkk/spring-cloud-eureka:0.0.2</imageName>
                     <dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>
                     <resources>
                         <resouce>
